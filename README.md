@@ -1,4 +1,4 @@
-
+![GitHub Logo](http://www.biobots.io/wp-content/themes/biobots/images/logo.png)
 
 Thank you for your interest in BioBots! We are excited to consider you for our software engineering position and want to get a chance to see who you are as a coder and how you tackle problems. We have developed this Coding Challenge as a way for you to put together a software project from the ground up yourself.
 
