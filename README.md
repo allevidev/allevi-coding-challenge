@@ -1,3 +1,5 @@
+
+
 Thank you for your interest in BioBots! We are excited to consider you for our software engineering position and want to get a chance to see who you are as a coder and how you tackle problems. We have developed this Coding Challenge as a way for you to put together a software project from the ground up yourself.
 
 We have created a dataset which, while being computer generated data, is a good representation of the kind of data you could expect to see from customer usage of our BioBot 1 printer and resulting data from bioprinting studies. You can find the dataset in `bioprint-data.json` at the root level of this repository. The dataset is an array of example prints with the following schema:
@@ -38,4 +40,4 @@ We have created a dataset which, while being computer generated data, is a good 
 
 Using this dataset, we would like you to build a webapplication using any stack you are comfortable with to build a tool for our customers and for our internal team to analyze print information and results. We'll leave the details of the application up to you and what you think would be important for the users of the application. Send us your final code on Github and we'll take a look at what you built!
 
-Thanks and if you have any questions email us at info@biobots.io!
+Thanks and if you have any questions email us at info@biobots.io! We can't wait to see what you come up with!
