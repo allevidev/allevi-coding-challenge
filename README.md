@@ -38,6 +38,6 @@ We have created a dataset which, while being computer generated data, is a good 
   }
 ```
 
-Using this dataset, we would like you to build a webapplication using any stack you are comfortable with to build a tool for our customers and for our internal team to analyze print information and results. We'll leave the details of the application up to you and what you think would be important for the users of the application. Send us your final code on Github and we'll take a look at what you built!
+Using this dataset, we would like you to build a web application using any stack you are comfortable with to build a tool for our customers and for our internal team to analyze print information and results. We'll leave the details of the application up to you and what you think would be important for the users of the application. Send us your final code on Github and we'll take a look at what you built!
 
 Thanks and if you have any questions email us at info@biobots.io! We can't wait to see what you come up with!
