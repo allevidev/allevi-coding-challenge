@@ -10,11 +10,6 @@ We have created a dataset which, while being computer generated data, is a good 
       "serial": { "type": "number", "description": "Serial number of the customer's BioBot 1"},
       "email": { "type": "string", "description": "Customer's email address"}
     },
-    "print_data": {
-      "livePercent": { "type": "number", "description": "Percent of final print determined to be alive through live/dead imaging."},
-      "elasticity": { "type": "number", "description": "Measure of final print structural rigidity measured in kPa."},
-      "deadPercent": { "type": "number", "description": "Percent of final print determined to be dead through live/dead imaging."},
-    },
     "print_info": {
       "files": {
         "input": { "type": "string", "description": "Filename of the input print GCODE file."},
@@ -34,6 +29,11 @@ We have created a dataset which, while being computer generated data, is a good 
         "layerHeight": { "type": "number", "description": "Height of each layer in mm."},
       },
       "wellplate": { "type": "number", "description": "Wellplate type used for the print."}
+    },
+    "print_data": {
+      "livePercent": { "type": "number", "description": "Percent of final print determined to be alive through live/dead imaging."},
+      "elasticity": { "type": "number", "description": "Measure of final print structural rigidity measured in kPa."},
+      "deadPercent": { "type": "number", "description": "Percent of final print determined to be dead through live/dead imaging."},
     }
   }
 ```
