@@ -1,0 +1,24 @@
+<html>
+  <head>
+    <title>User {{user.serial}} BioBots Dataset Viewer</title>
+  </head>
+  <body>
+    <h1>User {{user.serial}} BioBots Dataset Viewer</h1>
+    <form action='plot' method='post'>
+      View alive percentage by
+      <select name='plot_opt'>
+        {% for plot_opt in plot_opts -%}
+          <option value='{{ plot_opt}}'>{{ plot_opt }}</option>
+        {%- endfor %}
+      </select>
+      <input type='submit' value='plot'></input>
+    </form>
+    <br />
+    {% if plot_img is defined %}
+      <img src="{{ plot_img }}"></img>
+    {% endif %}
+    <br />
+    <a href='/login'>Logout</a>
+  </body>
+</html>
+
