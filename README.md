@@ -57,18 +57,18 @@ Example:
 ```javascript
 {
     "user_info": {
-        "email": "user0@gmail.com",   // users are indexed by their email
+        "email": "user0@gmail.com",   // Users are indexed by their email
         "serial": 0
     },
-    "print_info": {                   // input data for the print
+    "print_info": {                   // Input data for the print
         "files": {
             "input": "file_0.stl",    // This file provides a 3D view of the object for the user
             "output": "file_0.gcode"  // The file is used by the printer to print the object
         },
         "printer": {
-            "modelNumber": 6          // This printer has 6 extruders 
+            "modelNumber": 6          // This printer has 6 extruders
         },
-        "pressure": {                 // pressure for each extruder in PSI
+        "pressure": {                 // Pressure for each extruder in PSI
             "extruder0": 38.4,
             "extruder1": 89.9,
             "extruder2": 51.45,
@@ -76,7 +76,7 @@ Example:
             "extruder4": 70.92,
             "extruder5": 93.25
         },
-        "temperature": {              // temperature for each extruder in Celsius
+        "temperature": {              // Temperature for each extruder in Celsius
             "extruder0": 115.19,
             "extruder1": 43.04,
             "extruder2": 4.66,
@@ -84,7 +84,7 @@ Example:
             "extruder4": 95.1,
             "extruder5": 104.51
         },
-        "material": {                 // material for each extruder
+        "material": {                 // Material for each extruder
             "extruder0": "Gelatin Methacrylate",
             "extruder1": "Pluronic",
             "extruder2": "Collagen",
@@ -93,19 +93,19 @@ Example:
             "extruder5": "Collagen"
         },
         "crosslinking": {
-            "cl_duration": 12415,     // cross link for 12415 milliseconds
+            "cl_duration": 12415,     // Cross link for 12415 milliseconds
             "cl_enabled": true,
             "cl_intensity": 80 
         },
         "resolution": {
-            "layerHeight": 0.2,       // each layer is 0.2mm thick
-            "layerNum": 33            // this print is made up of 33 layers
+            "layerHeight": 0.2,       // Each layer is 0.2mm thick
+            "layerNum": 33            // This print is made up of 33 layers
         },
-        "wellplate": 96
+        "wellplate": 96               // This print was identically replicated into each of the 96 wells in the well-plate
     },
-    "print_data": {                   // output data of the completed print
+    "print_data": {                   // Output data of the completed print
         "deadPercent": 53.09,
-        "elasticity": 47.42,          // the higher the value, the greater the elasticity
+        "elasticity": 47.42,          // The higher the value, the greater the elasticity
         "livePercent": 37.42
     },
 }
