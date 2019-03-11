@@ -4,7 +4,7 @@ Thank you for your interest in Allevi! We are excited to consider you for our so
 
 We have created a data-set of 100 users printing data. You can find the dataset in `allevi-data.json` at the root level of this repository. The dataset is an array of example prints with the following schema:
 
-```json
+```javascript
   {
     "user_info": {
       "serial": { "type": "number", "description": "Serial number of the customer's Allevi printer"},
@@ -54,7 +54,7 @@ We have created a data-set of 100 users printing data. You can find the dataset 
 
 Example:
 
-```json
+```javascript
 {
     "user_info": {
         "email": "user0@gmail.com",   // users are indexed by their email
