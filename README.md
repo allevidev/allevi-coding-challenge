@@ -115,15 +115,15 @@ Using this dataset, we would like you to build a web application using any stack
 
 Some points to consider:
 
-- We will be focusing on :
+- We will be focusing on:
   - the implementation of the web application
   - the method of data storage
   - the tools/insights made available through the web application
-- The overall appearance of the web application has a very small weighting
-- You do not have to host your web application however please provide the execution/running instructions in your README.md
+- The overall appearance of the web application has a very small weighting.
+- You do not have to host your web application however please provide the execution/running instructions in your README.md.
 - Key Terms:
   - [Extruder](https://static1.squarespace.com/static/58ed365f20099e2bf03e0721/t/5a62714a24a69463e4933089/1542379654239/Allevi+2+desktop+3D+bioprinter+extrusion+bioprint?format=300w): Extruder heads contain materials and control the temperature/pressure of their contents. Materials are extruded out of an extruder by means of a pressure pump.
-  - [CrossLinking](https://static1.squarespace.com/static/58ed365f20099e2bf03e0721/t/5bc61be353450a6d6aaa454d/1542379654241/IMG_1442.JPG?format=300w): Using visble/UV light to photo-cure the 3D printed object
+  - [CrossLinking](https://static1.squarespace.com/static/58ed365f20099e2bf03e0721/t/5bc61be353450a6d6aaa454d/1542379654241/IMG_1442.JPG?format=300w): Using visble/UV light to photo-cure the 3D printed object.
   - [WellPlate](https://farm7.staticflickr.com/6118/6252392655_c4285c5aa6_b.jpg): Flat tray with multiple wells such that each well contains a print.
 
 What to submit:
