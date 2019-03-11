@@ -1,6 +1,6 @@
 ![GitHub Logo](https://static1.squarespace.com/static/58ed365f20099e2bf03e0721/t/5a72265171c10bf970879fbf/1521683467932/?format=1500w)
 
-Thank you for your interest in Allevi! We are excited to consider you for our software engineering position and want to get a chance to see who you are as a coder and how you tackle problems. We have developed this Coding Challenge as a way for you to put together a software project from the ground up yourself.
+Thank you for your interest in Allevi! We are excited to consider you for our software engineering position and want to get a chance to see who you are as a coder and how you tackle problems. We have developed this Coding Challenge as a way for you to put together a software project with any implementation/framework you prefer.
 
 We have created a data-set of 100 users' printing data. You can find the dataset in `allevi-data.json` at the root level of this repository. The dataset is an array of example prints with the following schema:
 
